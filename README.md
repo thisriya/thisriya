@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riya Singh
 - 👀 I’m interested in Web Development and Python.
-- 🌱 I’m currently working on  Web development
+- 🌱 I’m currently Front-End Developer Intern at QUORE B2B Marketing and AIML Engineer at CDAC.
 - 📫 How to reach me : You can message me on LinkedIn : https://www.linkedin.com/in/riya-singh-8354b424a/
 - 😄 Pronouns: She/her
   
